@@ -1,0 +1,4 @@
+開啟方式（需要本機伺服器，不能直接雙擊 html）：
+1. 在這個資料夾開啟終端機
+2. 執行：python -m http.server 8000
+3. 用瀏覽器開啟 http://localhost:8000/
